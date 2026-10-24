@@ -1,67 +1,55 @@
 <div align="center">
-Hi there 
+
+# Hi, I'm Nasif Jawad Nihan 👋
+
+### CSE Student · Web Engineer · Dhaka, Bangladesh
+
+I build thoughtful interfaces and practical web apps, with a focus on useful user experiences and reliable foundations.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-C7472B?style=for-the-badge&logo=vercel&logoColor=white)](https://nasifjawadnihan.vercel.app)
+
+<a href="https://www.linkedin.com/in/nasifjawadnihan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/nnasif78"><img src="https://img.shields.io/badge/GitHub-@nnasif78-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/_nnasif/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://fb.com/nnasiff"><img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
 </div>
-<h1 align="center">I'm Nasif Jawad Nihan</h1>
-<h2 align="center">CSE Student | Problem Solver</h2>
-<h3 align="center">Connect with me:</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nasifjawadnihan/" target="_blank">
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="nasifjawadnihan" height="30" width="40" />
-</a>
-  <a href="https://fb.com/nnasiff" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nnasiff" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_nnasif" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nnasif" height="30" width="40" />
-  </a>
+---
+
+## About me
+
+- 🎓 Studying Computer Science and Engineering at **United International University**.
+- 💻 Building responsive web apps with React, Next.js, and TypeScript.
+- 🔧 Exploring backend development, databases, authentication, and API integration.
+- 🌱 Always learning by turning ideas into practical projects.
+
+## Skills & tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,express,mongodb,mysql,php,git,github,vscode" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Express, MongoDB, MySQL, PHP, Git, GitHub, and VS Code" />
 </p>
 
-<h3 align="center">Current Languages and Tools:</h3>
-
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://cdn.simpleicons.org/betterauth/171717" width="22" height="22" alt="" />
+  <strong>Better Auth</strong> · REST APIs · API integration
 </p>
-<h3 align="center"> Current Streak</h3>
+
+## Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**Bazar Dor**](https://bazar-dor-ten.vercel.app/) · [Source](https://github.com/nnasif78/Bazar-Dor) | A Bengali-first guide to grocery prices and market comparisons in Bangladesh. | Next.js, React, MongoDB, Better Auth |
+| [**FitLog**](https://fit-log-gray.vercel.app/) · [Source](https://github.com/nnasif78/FitLog) | Browse exercises, plan workouts, and track activity. | Next.js, TypeScript, Tailwind CSS |
+| [**DevStack**](https://devstack-nnasif78.netlify.app/) · [Source](https://github.com/nnasif78/DevStack) | Explore development technologies and assemble a personal stack. | React, TypeScript, Tailwind CSS |
+| [**DevConf 2026**](https://nnasif78.github.io/devconf-2026/index.html) · [Source](https://github.com/nnasif78/devconf-2026) | A responsive landing page for a developer conference. | HTML5, CSS3 |
+
+## GitHub activity
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nnasif78&theme=kanagawa-paper&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-  </a>
-</div>
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=nnasif78&label=Profile%20views&color=0e75b6&style=flat" alt="nnasif78" /> </p>
+
+[![GitHub streak](https://streak-stats.demolab.com?user=nnasif78&theme=kanagawa-paper&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=nnasif78&label=Profile%20views&color=C7472B&style=flat)
+
 </div>
