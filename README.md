@@ -19,10 +19,10 @@ I build thoughtful interfaces and practical web apps, with a focus on useful use
 
 ## About me
 
-- 🎓 Studying Computer Science and Engineering at **United International University**.
-- 💻 Building responsive web apps with React, Next.js, and TypeScript.
-- 🔧 Exploring backend development, databases, authentication, and API integration.
-- 🌱 Always learning by turning ideas into practical projects.
+-  Studying Computer Science and Engineering at **United International University**.
+-  Building responsive web apps with React, Next.js, and TypeScript.
+-  Exploring backend development, databases, authentication, and API integration.
+-  Always learning by turning ideas into practical projects.
 
 ## Skills & tools
 
@@ -30,10 +30,6 @@ I build thoughtful interfaces and practical web apps, with a focus on useful use
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,express,mongodb,mysql,php,git,github,vscode" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Express, MongoDB, MySQL, PHP, Git, GitHub, and VS Code" />
 </p>
 
-<p>
-  <img src="https://cdn.simpleicons.org/betterauth/171717" width="22" height="22" alt="" />
-  <strong>Better Auth</strong> · REST APIs · API integration
-</p>
 
 ## Featured projects
 
