@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nasif Jawad Nihan 👋
+# Hi, I'm Nasif Jawad Nihan
 
 ### CSE Student · Web Engineer · Dhaka, Bangladesh
 
@@ -27,14 +27,14 @@ I build thoughtful interfaces and practical web apps, with a focus on useful use
 ## Skills & tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,express,mongodb,mysql,php,git,github,vscode" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Express, MongoDB, MySQL, PHP, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,react,nextjs,ts,js,tailwind,html,css,express,mongodb,mysql,git,github,vscode" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Express, MongoDB, MySQL, PHP, Git, GitHub, and VS Code" />
 </p>
-
-
 ## Featured projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**ShareKit**](https://sharekit-client.vercel.app/) · [Client](https://github.com/nnasif78/sharekit-client) · [Server](https://github.com/nnasif78/sharekit-server) | A community marketplace for discovering, renting, and listing equipment, with booking and payment workflows. | Next.js, TypeScript, Express, MongoDB, Better Auth, Stripe |
+| [**Togetherly**](https://togetherlyhub.vercel.app/) · [Client](https://github.com/nnasif78/togetherly-client) · [Server](https://github.com/nnasif78/togetherly-server) | Discover local volunteer events, connect with neighbors, and organize community gatherings. | Next.js, TypeScript, Express, MongoDB, Better Auth |
 | [**Bazar Dor**](https://bazar-dor-ten.vercel.app/) · [Source](https://github.com/nnasif78/Bazar-Dor) | A Bengali-first guide to grocery prices and market comparisons in Bangladesh. | Next.js, React, MongoDB, Better Auth |
 | [**FitLog**](https://fit-log-gray.vercel.app/) · [Source](https://github.com/nnasif78/FitLog) | Browse exercises, plan workouts, and track activity. | Next.js, TypeScript, Tailwind CSS |
 | [**DevStack**](https://devstack-nnasif78.netlify.app/) · [Source](https://github.com/nnasif78/DevStack) | Explore development technologies and assemble a personal stack. | React, TypeScript, Tailwind CSS |
